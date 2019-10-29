@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/lucastzmo/example-conventional-commits-dynamic-changelog/compare/v1.1.0...v2.0.0) (2019-10-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* add index in project
+
+example breaking change
+
+### Features
+
+* add index ([add6139](https://github.com/lucastzmo/example-conventional-commits-dynamic-changelog/commit/add6139a912f1a4ef94ea7ba83d9678f694364bb))
+
 ## 1.1.0 (2019-10-29)
 
 
